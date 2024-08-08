@@ -7,7 +7,13 @@ Version updates:
 - Floating Navbar
 - Contacts and linkage
 
+1.1.0 (August 9th, 2024)
+- Added a new background
+- Added some new button animations
+- Font changes
+- Fixing lingkage error
+
 Future Upadate Plans:
-- Adding dynamic background
-- Making the Website more professional
-- Fixing a linkage error (spesifically for project section)
+- There's still a problem at the "pelajari lebih lanjut" button at the projects that the glowbox doesn't cover the whole button.
+- Moving navbar's contents to the side (it's located in the middle of the navbar somehow :v) and making the menu's font size smaller (2-3 vh)
+- making the background image position fixed when scrolling
