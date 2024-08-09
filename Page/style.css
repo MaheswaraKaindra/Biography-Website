@@ -12,8 +12,8 @@ body {
 }
 
 .wrapper {
-    width: 100vh;
-    margin: auto;
+    width: 100%;
+    margin: auto 60px auto 60px;
     position: relative;
 }
 
@@ -109,7 +109,7 @@ p {
     cursor: pointer; 
 }
 
-.button :hover {
+.button:hover {
     color: black;
     background-color: #63bdfe;
     box-shadow: #63bdfe;
