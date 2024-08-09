@@ -19,10 +19,15 @@ body {
 
 
 .logo a {
-    font-size: 2vh;
+    font-size: 3vh;
     font-weight: 800;
     float: left;
     color: white;
+    transition: 0.3s;
+}
+
+.logo:hover {
+    filter: drop-shadow(0 0 5px #63bdfe);
 }
 
 .menu {
@@ -49,6 +54,7 @@ body {
     list-style-type: none;
     margin: 0;
     overflow: hidden;
+    font-size: 3vh;
 }
 
 .nav-1 u1 li {
@@ -113,6 +119,7 @@ p {
     color: black;
     background-color: #63bdfe;
     box-shadow: #63bdfe;
+    transform: scale(1.1) translateY(-5px);
     transition: 0.3s;
 }
 
@@ -151,7 +158,10 @@ img[src$="github.png"] {
     height: 100vh;
     align-items: center;
     padding: 40px;
-    background-image: url('background.jpg')
+    background-image: url('background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .home h2 {
@@ -170,6 +180,11 @@ img[src$="github.png"] {
 .ability {
     padding: 40px;
     align-items: center;
+    background-image: url('background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
 }
 
 .animation {
