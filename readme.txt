@@ -1,6 +1,10 @@
-An autobiography Website by Kaindra
+An autobiography Website by Maheswara Bayu Kaindra
+deployed Using Vercel
 
-Version updates:
+How to Open : Open the index.html file or use https://biography-website-kaindra.vercel.app/ domain to open the file online.
+Technology used : Vanilla (HTML and CSS based)
+
+Version updates: Newest version : 1.1.1
 1.0.0 (August 5th, 2024)
 - Added Tentative Content for the Website
 - Simple implementation of CSS
@@ -13,7 +17,18 @@ Version updates:
 - Font changes
 - Fixing lingkage error
 
+1.1.1 (August 10th, 2024)
+- Fixing Background position
+- Making hover effect for the buttons
+- Making Typing animations
+
+Potentially asked questions:
+- Why didn't the developer put his academic achievements in the website? Because Kaindra doesn't have any medals in college competitions (especially Informatics and academic related)
+
 Future Upadate Plans:
-- There's still a problem at the "pelajari lebih lanjut" button at the projects that the glowbox doesn't cover the whole button.
-- Moving navbar's contents to the side (it's located in the middle of the navbar somehow :v) and making the menu's font size smaller (2-3 vh)
-- making the background image position fixed when scrolling
+- Fixing the css to make it capable to open the website from cellphones.
+
+Challenges in making this portofolio website :
+- Kaindra was very new to Git and GitHub, it's kinda difficult to learn and understand :/
+- Skill issue
+- It was so hard to design the element placement using CSS (technically skill issue)
