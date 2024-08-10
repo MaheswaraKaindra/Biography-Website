@@ -1,7 +1,7 @@
-An autobiography Website by Maheswara Bayu Kaindra
+An autobiography Website by Maheswara Bayu Kaindra (a beginner)
 deployed Using Vercel
 
-How to Open : Open the index.html file or use https://biography-website-kaindra.vercel.app/ domain to open the file online.
+How to Open : Open the index.html file or use https://biography-website-kaindra.vercel.app/ domain to open the file online. (use PC or laptop for the best layout experience)
 Technology used : Vanilla (HTML and CSS based)
 
 Version updates: Newest version : 1.1.1
